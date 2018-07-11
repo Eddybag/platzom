@@ -1,0 +1,13 @@
+Block: Es una hoja de excel o una tabla, Una cabecera en donde se guarda información a tipo de metadata, y luego transacciones, el bloque se genera cada cierto tiempo.
+
+Blockchain: Es la concatenación de bloques, se guardan cronológicamente y cada uno de los bloques tiene referencia al anterior, de ésta manera se unen en una cadena
+
+Minería: Equipos que validan transaciones y generan bloques nuevos que a sus ves generan nuevas monedas, esto es importante porque la minería le da la capa de seguridad.
+
+Wallet: Es donde se administra el dinero entrada y salida de coins
+
+Confirmation: Etapa donde se confirma la transacción, ésto puede tomar 15 a 20 segundos o 30 minutos para que una transacción sea confirmada. Que significa esto, la trasacción se confirma cuando ésta entra a un bloque y el comercio o la persona que recibe, ve en su wallet que la trasacción está confirmada.
+
+Exchange: Cambio de dinero "real" a cryptomoneda, ésto se hace a traves de una persona que hace el cambio. Empresas cobran comisión para realizar éste servicio.
+
+Moneda Alternativa: Toda criptomoneda que salió después de bitcoin.

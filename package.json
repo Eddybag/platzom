@@ -1,0 +1,33 @@
+{
+  "name": "@evelaguti/platzom",
+  "version": "0.1.6",
+  "description": "Traductor de idioma Platzi",
+  "main": "dist/src/platzom.js",
+  "scripts": {
+    "build": "babel src/platzom.js -d dist",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evelaguti/platzom.git"
+  },
+  "keywords": [
+    "platzi",
+    "fundamentos",
+    "javascript",
+    "js"
+  ],
+  "author": "Edgardo Velásquez Gutiérrez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evelaguti/platzom/issues"
+  },
+  "homepage": "https://github.com/evelaguti/platzom#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-minify": "^0.4.3",
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
